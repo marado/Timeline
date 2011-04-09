@@ -1,0 +1,16 @@
+/* **********************************************************************************
+ * Timeline.class.js - v0.1 - 2011/04/09
+ * 
+ * Timeline is a Javascript class to help you create in a simple way an HTML timeline
+ * 
+ * - This first version was made in a rush and I'm sleepy. Probably buggy, only has
+ *   the features I needed at the moment, and no documentation or comments, sorry. 
+ *   Check out the html file that was with this, it has an example of how to use it.
+ * 
+ * Latest version at: https://github.com/marado/Timeline
+ * 
+ * (C) 2011 Marcos Marado <mindboosternoori@gmail.com>
+ * This code is copylefted with the GPLv3 license. It means it is free software and
+ * you can do lots of cool things with it. Read the license at 
+ * http://www.gnu.org/licenses/gpl.html
+ * **********************************************************************************/
