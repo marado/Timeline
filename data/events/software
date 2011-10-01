@@ -1,0 +1,110 @@
+Title: "Deity" (now "apt") project started
+Date: Apr 11 1997
+Source: http://lists.debian.org/debian-user/1997/04/msg00786.html
+
+Title: debhelper 0.2 in unstable
+Date: Sep 23 1997
+Source: http://packages.debian.org/changelogs/pool/main/d/debhelper/current/changelog
+
+Title: Deity renamed to "apt"
+Date: Mar 23 1998
+Source: http://lists.debian.org/deity/1998/03/msg00114.html
+
+Title: Bug filed to replace smail with exim as default MTA
+Date: Oct 07 1998
+Source: http://lists.debian.org/debian-devel/1998/10/msg00570.html
+
+Title: debhelper 1.0
+Date: Aug 08 1998
+Source: http://packages.debian.org/changelogs/pool/main/d/debhelper/current/changelog
+
+Title: exim is the new default MTA for Debian stable
+Date: Mar 09 1999
+Source: http://www.oss-watch.ac.uk/resources/cs-exim.xml
+
+Title: debhelper 3.0
+Date: Feb 08 2001
+Source: http://packages.debian.org/changelogs/pool/main/d/debhelper/current/changelog
+
+Title: dpkg 1.9.0 released
+Date: Apr 27 2001
+Source: http://lists.debian.org/debian-devel-announce/2001/04/msg00016.html
+
+Title: debhelper 4.0
+Date: Apr 11 2002
+Source: http://packages.debian.org/changelogs/pool/main/d/debhelper/current/changelog
+
+Title: gcc 3.2 default compiler in unstable
+Date: Jan 07 2003
+Source: http://lists.debian.org/debian-devel-announce/2003/01/msg00003.html
+
+Title: Package signing added to apt
+Date: Dec 23 2003
+Source: http://bugs.debian.org/203741
+
+Title: AMD64 port "ready for sid"
+Date: Jun 11 2004
+Source: http://lists.debian.org/debian-devel-announce/2004/06/msg00002.html
+
+Title: gcc 4.0 default compiler in unstable
+Date: Jul 05 2005
+Source: http://lists.debian.org/debian-devel-announce/2005/07/msg00001.html
+
+Title: REJECT FAQ for NEW added
+Date: Aug 25 2005
+Source: http://lists.debian.org/debian-devel-announce/2005/08/msg00011.html
+
+Title: debhelper 5.0
+Date: Nov 01 2005
+Source: http://packages.debian.org/changelogs/pool/main/d/debhelper/current/changelog
+
+Title: debmake deprecated
+Date: Mar 22 2006
+Source: http://lists.debian.org/debian-devel-announce/2006/03/msg00019.html
+
+Title: gcc 4.1 default compiler in unstable
+Date: Jun 07 2006
+Source: http://lists.debian.org/debian-devel-announce/2006/06/msg00004.html
+
+Title: gcc 4.2 default compiler in unstable
+Date: Sep 01 2007
+
+Title: cdrkit (cdrtools fork) uploaded
+Date: Sep 04 2006
+Source: http://lists.debian.org/debian-devel-announce/2006/09/msg00002.html
+
+Title: Installation of "Recommends:" by default
+Date: Oct 01 2007
+Source: http://lists.debian.org/debian-devel-announce/2007/08/msg00000.html
+
+Title: debhelper 6.0
+Date: Jan 08 2008
+Source: http://packages.debian.org/changelogs/pool/main/d/debhelper/current/changelog
+
+Title: dpkg with triggers in unstable
+Date: Apr 08 2008
+Source: http://packages.debian.org/changelogs/pool/main/d/dpkg/current/changelog
+
+Title: debhelper 7.0
+Date: Apr 24 2008
+Source: http://packages.debian.org/changelogs/pool/main/d/debhelper/current/changelog
+
+Title: AGPL deemed suitable for main
+Date: Nov 28 2008
+Source: http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=506402#10
+
+Title: Debian packages for lenny's "Linux-libre" released
+Date: Apr 23 2009
+Source: http://lists.debian.org/debian-devel-announce/2009/04/msg00010.html
+
+Title: grub package now based on GRUB2
+Date: Sep 4 2009
+Source: http://lists.debian.org/debian-devel-announce/2009/09/msg00002.html
+
+Title: New source package formats available
+Date: Nov 21 2009
+Source: http://lists.debian.org/debian-devel-announce/2009/11/msg00003.html
+
+Title: Parallel booting enabled by default
+Date: May 21 2010
+Source: http://lists.debian.org/debian-devel-announce/2010/05/msg00009.html
