@@ -12,6 +12,8 @@ on a set of text files.
 A next step would be to have something generating those files (instead of
 having it made by hand). 
 
+You can see it in action (a simple 'make') at http://marado.github.io/Timeline/
+
 
 ================================================================================
 
