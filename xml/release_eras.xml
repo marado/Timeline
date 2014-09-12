@@ -1,0 +1,16 @@
+<!-- Generated from data/release_eras/* - do not edit -->
+<data>
+  <entry end="Jun 10 1996" isDuration="true" start="Oct 26 1995" title="Debian GNU/Linux 0.93R6 released"/>
+  <entry end="Dec 07 1996" isDuration="true" start="Jun 17 1996" title="Debian GNU/Linux 1.1 (&quot;buzz&quot;)">&lt;a href=&quot;http://lists.debian.org/debian-announce/1996/msg00021.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry end="Jun 01 1997" isDuration="true" start="Dec 12 1996" title="Debian GNU/Linux 1.2 (&quot;rex&quot;)">&lt;a href=&quot;http://lists.debian.org/debian-announce/1996/msg00026.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry end="Jul 19 1998" isDuration="true" start="Jun 05 1997" title="Debian GNU/Linux 1.3 (&quot;bo&quot;)">&lt;a href=&quot;http://lists.debian.org/debian-announce/1997/msg00013.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry end="Mar 04 1999" isDuration="true" start="Jul 24 1998" title="Debian GNU/Linux 2.0 (&quot;hamm&quot;)">&lt;a href=&quot;http://lists.debian.org/debian-announce/1998/msg00015.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry end="Aug 10 2000" isDuration="true" start="Mar 09 1999" title="Debian GNU/Linux 2.1 (&quot;slink&quot;)">&lt;a href=&quot;http://lists.debian.org/debian-announce/1999/msg00005.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry end="Jul 14 2002" isDuration="true" start="Aug 15 2000" title="Debian GNU/Linux 2.2 (&quot;potato&quot;)">&lt;a href=&quot;http://lists.debian.org/debian-announce/2000/msg00009.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry end="Jun 01 2005" isDuration="true" start="Jul 19 2002" title="Debian GNU/Linux 3.0 (&quot;woody&quot;)">&lt;a href=&quot;http://lists.debian.org/debian-announce/2002/msg00004.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry end="Apr 03 2007" isDuration="true" start="Jun 06 2005" title="Debian GNU/Linux 3.1 (&quot;sarge&quot;)">&lt;a href=&quot;http://lists.debian.org/debian-announce/2005/msg00003.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry end="Feb 09 2009" isDuration="true" start="Apr 08 2007" title="Debian GNU/Linux 4.0 (&quot;etch&quot;)">&lt;a href=&quot;http://lists.debian.org/debian-announce/2007/msg00002.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry end="Jan 29 2011" isDuration="true" start="Feb 14 2009" title="Debian GNU/Linux 5.0 (&quot;lenny&quot;)">&lt;a href=&quot;http://lists.debian.org/debian-announce/2009/msg00002.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry end="Feb 6 2013" isDuration="true" start="Feb 6 2011" title="Debian GNU/Linux 6.0 (&quot;squeeze&quot;)">&lt;a href=&quot;http://lists.debian.org/debian-announce/2009/msg00002.html&quot;&gt;Source&lt;/a&gt;</entry>
+</data>
+

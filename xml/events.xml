@@ -1,0 +1,270 @@
+<!-- Generated from data/events/* - do not edit -->
+<data>
+  <entry start="Oct 26 1995" title="Debian GNU/Linux 0.93R6 released"/>
+  <entry start="Jun 17 1996" title="Debian GNU/Linux 1.1 (&quot;buzz&quot;)">&lt;a href=&quot;http://lists.debian.org/debian-announce/1996/msg00021.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Dec 12 1996" title="Debian GNU/Linux 1.2 (&quot;rex&quot;)">&lt;a href=&quot;http://lists.debian.org/debian-announce/1996/msg00026.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Jun 05 1997" title="Debian GNU/Linux 1.3 (&quot;bo&quot;)">&lt;a href=&quot;http://lists.debian.org/debian-announce/1997/msg00013.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Jul 24 1998" title="Debian GNU/Linux 2.0 (&quot;hamm&quot;)">&lt;a href=&quot;http://lists.debian.org/debian-announce/1998/msg00015.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Mar 09 1999" title="Debian GNU/Linux 2.1 (&quot;slink&quot;)">&lt;a href=&quot;http://lists.debian.org/debian-announce/1999/msg00005.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Aug 15 2000" title="Debian GNU/Linux 2.2 (&quot;potato&quot;)">&lt;a href=&quot;http://lists.debian.org/debian-announce/2000/msg00009.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Jul 19 2002" title="Debian GNU/Linux 3.0 (&quot;woody&quot;)">&lt;a href=&quot;http://lists.debian.org/debian-announce/2002/msg00004.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Jun 06 2005" title="Debian GNU/Linux 3.1 (&quot;sarge&quot;)">&lt;a href=&quot;http://lists.debian.org/debian-announce/2005/msg00003.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Apr 08 2007" title="Debian GNU/Linux 4.0 (&quot;etch&quot;)">&lt;a href=&quot;http://lists.debian.org/debian-announce/2007/msg00002.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Feb 14 2009" title="Debian GNU/Linux 5.0 (&quot;lenny&quot;)">&lt;a href=&quot;http://lists.debian.org/debian-announce/2009/msg00002.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Feb 5 2011" title="Debian GNU/Linux 6.0 (&quot;squeeze&quot;)">&lt;a href=&quot;http://lists.debian.org/debian-announce/2011/msg00001.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Sep 06 1997" title="BTS severity tracking implemented">&lt;a href=&quot;http://lists.debian.org/debian-devel-announce/1997/09/msg00000.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Sep 16 1999" title="qa.debian.org created">&lt;a href=&quot;http://lists.debian.org/debian-devel-announce/1999/09/msg00007.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Oct 11 1999" title="debian-project list created">&lt;a href=&quot;http://lists.debian.org/debian-devel-announce/1999/10/msg00004.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Oct 17 1999" title="New-maintainer procedure proposed">&lt;a href=&quot;http://lists.debian.org/debian-project/1999/10/msg00003.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Nov 11 1999" title="Debian machine usage policy proposed">&lt;a href=&quot;http://lists.debian.org/debian-devel-announce/1999/11/msg00013.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Aug 02 2000" title="wnpp moved to BTS">&lt;a href=&quot;http://lists.debian.org/debian-devel-announce/2000/08/msg00000.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Mar 23 2002" title="Cryptographic software allowed into main again">&lt;a href=&quot;http://lists.debian.org/debian-devel-announce/2002/03/msg00019.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Oct 22 2002" title="Debian Desktop project launched">&lt;a href=&quot;http://lists.debian.org/debian-devel-announce/2002/10/msg00016.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Mar 29 2003" title="Alioth introduced">&lt;a href=&quot;http://lists.debian.org/debian-devel-announce/2003/03/msg00024.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="May 01 2003" title="svn.debian.org introduced">&lt;a href=&quot;http://lists.debian.org/debian-devel-announce/2003/05/msg00000.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Jul 03 2003" title="Request to remove RFCs from packages">&lt;a href=&quot;http://lists.debian.org/debian-devel-announce/2003/07/msg00000.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Jan 03 2004" title="planet.debian.org introduced">&lt;a href=&quot;http://lists.debian.org/debian-devel-announce/2004/01/msg00001.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Jan 07 2004" title="Debian Perl group founded">&lt;a href=&quot;http://lists.debian.org/debian-devel-announce/2004/01/msg00002.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Jul 18 2005" title="BTS version tracking implemented">&lt;a href=&quot;http://lists.debian.org/debian-devel-announce/2005/07/msg00010.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Sep 05 2005" title="BTS usertags announced">&lt;a href=&quot;http://lists.debian.org/debian-devel-announce/2005/09/msg00002.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Apr 01 2007" title="Smith Review Project announced">&lt;a href=&quot;http://lists.debian.org/debian-devel-announce/2007/04/msg00000.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Sep 02 2007" title="packages.debian.org updated">&lt;a href=&quot;http://lists.debian.org/debian-devel-announce/2007/09/msg00001.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Nov 17 2007" title="Debian Maintainers opens">&lt;a href=&quot;http://lists.debian.org/debian-devel-announce/2007/11/msg00004.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Sep 20 2008" title="ftp.upload.debian.org alias created">&lt;a href=&quot;http://lists.debian.org/debian-devel-announce/2008/09/msg00006.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Nov 13 2008" title="screenshots.debian.net released">&lt;a href=&quot;http://lists.debian.org/debian-devel-announce/2008/11/msg00003.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="May 28 2009" title="EU/IPv6 upload queue created">&lt;a href=&quot;http://lists.debian.org/debian-devel-announce/2009/05/msg00011.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Oct 27 2009" title="Lintian-based autorejects">&lt;a href=&quot;http://lists.debian.org/debian-devel-announce/2009/10/msg00004.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Apr 12 2010" title="Archive snapshot service available">&lt;a href=&quot;http://lists.debian.org/debian-announce/2010/msg00002.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Jul 18 2007" title="sparc32 architecture retired">&lt;a href=&quot;http://lists.debian.org/debian-devel-announce/2007/07/msg00006.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Sep 08 2008" title="m68k architecture moving to debian-ports.org">&lt;a href=&quot;http://lists.debian.org/debian-devel-announce/2008/09/msg00001.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Apr 05 2009" title="kfreebsd-{i386,amd64} architecture added">&lt;a href=&quot;http://lists.debian.org/debian-devel-announce/2009/04/msg00001.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Dec 11 1995" title="Broken &quot;Debian 1.0&quot; released"/>
+  <entry start="Aug 16 1998" title="5th Anniversary of Debian"/>
+  <entry start="Aug 16 2003" title="10th Anniversary of Debian"/>
+  <entry start="Aug 16 2008" title="15th Anniversary of Debian"/>
+  <entry start="Jul 11 2000" title="Joel 'Espy' Klecker passes away age 21"/>
+  <entry start="Jul 25 2000" title="Upcoming &quot;potato&quot; release dedicated to Joel 'Espy' Klecker">&lt;a href=&quot;http://www.debian.org/News/2000/20000815&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Mar 01 2001" title="Christopher Matthew Rutter passes away aged 19">&lt;a href=&quot;http://www.debian.org/News/2001/20010402b&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Mar 28 2001" title="Fabrizio Polacco passed away">&lt;a href=&quot;http://www.debian.org/News/2001/20010402b&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Jul 21 2002" title="Martin 'blendi' Butterweck passes away after battling leukemia"/>
+  <entry start="May 09 2004" title="Manuel 'ranty' Estrada Sainz and Andres 'ErConde' Garcia die in car accident">&lt;a href=&quot;http://www.debian.org/News/2004/20040515&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Jul 30 2005" title="Jens 'jensen' Schmalzig dies after tragic accident">&lt;a href=&quot;http://www.debian.org/News/2005/20050809&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Dec 26 2008" title="Thiemo 'ths' Seufer dies in car accident">&lt;a href=&quot;http://www.debian.org/News/2008/20081229&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Aug 31 2010" title="Frans Pop passed away">&lt;a href=&quot;http://www.debian.org/News/2010/20100831&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Feb 10 2007" title="Changes to handling of inactive accounts">&lt;a href=&quot;http://lists.debian.org/debian-devel-announce/2007/02/msg00008.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Mar 5 2007" title="French reaches 100% translation">&lt;a href=&quot;http://times.debian.net/1084-debfr-debconf-100percent&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="May 20 2007" title="popcon reaches 50,000 contributors">&lt;a href=&quot;http://lists.debian.org/debian-devel-announce/2007/05/msg00006.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry end="Jul 08 2000" isDuration="true" start="Jul 05 2000" title="First Debconf (0), Bordeaux, France">&lt;a href=&quot;http://debconf0.debconf.org/&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry end="Jul 05 2001" isDuration="true" start="Jul 02 2001" title="DebConf1, Bordeaux, France">&lt;a href=&quot;http://debconf1.debconf.org/&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry end="Jul 07 2002" isDuration="true" start="Jul 05 2002" title="DebConf2, Toronto, Canada">&lt;a href=&quot;http://debconf2.debconf.org/&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry end="Jul 17 2003" isDuration="true" start="Jul 12 2003" title="DebCamp3, Oslo, Norway">&lt;a href=&quot;http://debconf3.debconf.org/&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry end="Jul 20 2003" isDuration="true" start="Jul 18 2003" title="DebConf3, Oslo, Norway">&lt;a href=&quot;http://debconf3.debconf.org/&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry end="Jun 02 2004" isDuration="true" start="May 26 2004" title="DebConf4, Porto Alegre, Brazil">&lt;a href=&quot;http://debconf4.debconf.org/&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry end="Mar 06 2005" isDuration="true" start="Mar 05 2005" title="Vancouver release team meeting">&lt;a href=&quot;http://lists.debian.org/debian-devel-announce/2005/03/msg00012.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry end="Jul 09 2005" isDuration="true" start="Jul 02 2005" title="DebCamp5, Helsinki, Finland">&lt;a href=&quot;http://debconf5.debconf.org/&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Jul 09 2005" title="DebianDay5, Helsinki, Finland">&lt;a href=&quot;http://debconf5.debconf.org/&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry end="Jul 17 2005" isDuration="true" start="Jul 10 2005" title="DebConf5, Helsinki, Finland">&lt;a href=&quot;http://debconf5.debconf.org/&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry end="May 13 2006" isDuration="true" start="May 06 2006" title="DebCamp6, Oaxtepec, Mexico">&lt;a href=&quot;http://debconf6.debconf.org/&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="May 13 2006" title="DebianDay6, Oaxtepec, Mexico">&lt;a href=&quot;http://debconf6.debconf.org/&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry end="May 22 2006" isDuration="true" start="May 14 2006" title="DebConf6, Oaxtepec, Mexico">&lt;a href=&quot;http://debconf6.debconf.org/&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry end="Aug 20 2006" isDuration="true" start="Aug 19 2006" title="MiniDebConf Colombia 2006">&lt;a href=&quot;http://lists.debian.org/debian-devel-announce/2006/08/msg00002.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry end="Jan 16 2007" isDuration="true" start="Jan 15 2007" title="Debian Miniconf 6 at LCA2007">&lt;a href=&quot;http://miniconf6.debconf.org/&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry end="Jun 15 2007" isDuration="true" start="Jun 10 2007" title="DebCamp7, Edinburgh, Scotland">&lt;a href=&quot;https://debconf7.debconf.org/&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry end="Feb 25 2007" isDuration="true" start="Feb 24 2007" title="FOSDEM 2007">&lt;a href=&quot;http://times.debian.net/1081-FOSDEM-2007&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Jun 16 2007" title="DebianDay7, Edinburgh, Scotland">&lt;a href=&quot;https://debconf7.debconf.org/&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry end="Jun 23 2007" isDuration="true" start="Jun 17 2007" title="DebConf7, Edinburgh, Scotland">&lt;a href=&quot;https://debconf7.debconf.org/&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry end="Nov 23 2007" isDuration="true" start="Nov 21 2007" title="MiniDebConf Venezuela 2007">&lt;a href=&quot;http://lists.debian.org/debian-devel-announce/2007/11/msg00003.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Jan 28 2008" title="Debian Miniconf 7 at LCA2008">&lt;a href=&quot;http://miniconf7.debconf.org/&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry end="Aug 09 2008" isDuration="true" start="Aug 02 2008" title="DebCamp8, Mar del Plata, Argentina">&lt;a href=&quot;http://debconf8.debconf.org/&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry end="Aug 16 2008" isDuration="true" start="Aug 10 2008" title="DebConf8, Mar del Plata, Argentina">&lt;a href=&quot;http://debconf8.debconf.org/&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Aug 17 2008" title="DebianDay8, Buenos Aires, Argentina">&lt;a href=&quot;http://debconf8.debconf.org/&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry end="Jul 23 2009" isDuration="true" start="Jul 16 2009" title="DebCamp9, Cáceres, Spain">&lt;a href=&quot;http://debconf9.debconf.org/&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry end="Jul 30 2009" isDuration="true" start="Jul 23 2009" title="DebConf9, Cáceres, Spain">&lt;a href=&quot;http://debconf9.debconf.org/&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Jul 24 2009" title="Debian Open Day, Cáceres, Spain">&lt;a href=&quot;http://debconf9.debconf.org/&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry end="Nov 1 2009" isDuration="true" start="Oct 25 2009" title="FTPMaster meeting, Essen, Germany">&lt;a href=&quot;http://lists.debian.org/debian-devel-announce/2009/11/msg00001.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry end="Nov 29 2009" isDuration="true" start="Nov 28 2009" title="NM meeting">&lt;a href=&quot;http://lists.debian.org/debian-devel-announce/2009/11/msg00005.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry end="Feb 7 2010" isDuration="true" start="Feb 6 2010" title="FOSDEM 2010">&lt;a href=&quot;http://lists.debian.org/debian-events-eu/2009/10/msg00001.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry end="Mar 19 2010" isDuration="true" start="Mar 13 2010" title="Thailand MiniDebCamp 2010">&lt;a href=&quot;http://lists.debian.org/debian-devel-announce/2010/01/msg00004.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry end="Jun 11 2010" isDuration="true" start="Jun 10 2010" title="Mini DebConf in Berlin, Germany">&lt;a href=&quot;http://lists.debian.org/debian-devel-announce/2010/04/msg00012.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry end="July 31 2010" isDuration="true" start="July 25 2010" title="DebCamp10, New York City, USA">&lt;a href=&quot;http://debconf10.debconf.org/&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry end="Aug 7 2010" isDuration="true" start="Aug 1 2010" title="DebConf10, New York City, USA">&lt;a href=&quot;http://debconf10.debconf.org/&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry end="Feb 6 2011" isDuration="true" start="Feb 5 2011" title="FOSDEM 2011">&lt;a href=&quot;http://www.fosdem.org/2011/&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Feb 12 2000" title="debian-kids (now &quot;Debian Junior&quot;) announced">&lt;a href=&quot;http://lists.debian.org/debian-devel/2000/02/msg01042.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Jan 21 2002" title="Debian-Med announced">&lt;a href=&quot;http://lists.debian.org/debian-devel/2002/01/msg01730.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Jul 25 2003" title="&quot;Custom Debian Distribution&quot; discussion starts">&lt;a href=&quot;http://lists.debian.org/debian-devel/2003/07/msg02012.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Jun 29 2010" title="Derivatives Front Desk">&lt;a href=&quot;http://lists.debian.org/debian-announce/2010/msg00007.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Mar 13 1994" title="Linux 1.0 released">&lt;a href=&quot;http://ftp.cdut.edu.cn/pub2/linux/kernel/history/Master.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Mar 07 1995" title="Linux 1.2 released">&lt;a href=&quot;http://ftp.cdut.edu.cn/pub2/linux/kernel/history/Master.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Apr 30 1996" title="FSF sponsorship of Debian">&lt;a href=&quot;http://lists.debian.org/debian-announce/1996/msg00008.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Jun 06 1997" title="Incorporation of SPI completed"/>
+  <entry start="Jun 09 1996" title="Linux 2.0 released">&lt;a href=&quot;http://ftp.cdut.edu.cn/pub2/linux/kernel/history/Master.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Oct 10 1997" title="Unix-on-Intel players work on a common binary format">&lt;a href=&quot;http://www.us.debian.org/News/1997/common_library&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Nov 30 1997" title="Debian donates $1000 to Gnome Project">&lt;a href=&quot;http://www.us.debian.org/News/1997/19971130&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Jan 26 1999" title="Linux 2.2 released">&lt;a href=&quot;http://ftp.cdut.edu.cn/pub2/linux/kernel/history/Master.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Jun 02 1999" title="Non-profit status approved for SPI">&lt;a href=&quot;http://lists.debian.org/debian-announce/1999/msg00009.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Nov 21 2000" title="Debian joins Gnome Foundation Advisory Board">&lt;a href=&quot;http://lists.debian.org/debian-announce/2000/msg00013.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Feb 07 2000" title="Debian wins &quot;Most Deserving of $2000&quot; award">&lt;a href=&quot;http://slashdot.org/article.pl?sid=00/02/06/1950248&amp;amp;mode=nocomment&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Mar 01 2002" title="First Linspire release"/>
+  <entry start="Jan 19 2003" title="First Knoppix release"/>
+  <entry start="Dec 18 2003" title="Linux 2.6 released">&lt;a href=&quot;http://en.wikipedia.org/wiki/History_of_the_Linux_kernel#Kernel&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Oct 20 2004" title="First Ubuntu release (&quot;Warty&quot;)">&lt;a href=&quot;https://lists.ubuntu.com/archives/ubuntu-announce/2004-October/000003.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Jun 08 2002" title="Security build infrastructure">&lt;a href=&quot;http://lists.debian.org/debian-devel-announce/2002/06/msg00002.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Jul 08 2005" title="Security support for sarge &quot;working again&quot;">&lt;a href=&quot;http://lists.debian.org/debian-announce/2005/msg00004.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Jun 30 2006" title="Security dropped for Debian 3.0 (&quot;woody&quot;)">&lt;a href=&quot;http://lists.debian.org/debian-announce/2006/msg00002.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Oct 30 2007" title="Debian Security Tracker announced">&lt;a href=&quot;http://lists.debian.org/debian-devel-announce/2007/10/msg00010.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Mar 31 2008" title="Security dropped for Debian 3.1 (&quot;sarge&quot;)">&lt;a href=&quot;http://lists.debian.org/debian-announce/2008/msg00001.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="May 13 2008" title="OpenSSL predictable PRNG vulnerability publicly announced">&lt;a href=&quot;http://www.debian.org/security/2008/dsa-1571&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Jul 08 2008" title="Kaminsky's DNS cache poisoning vulnerability publicly announced">&lt;a href=&quot;http://www.debian.org/security/2008/dsa-1603&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry end="Feb 17 2002" isDuration="true" start="Feb 15 2002" title="Bug squashing party">&lt;a href=&quot;http://lists.debian.org/debian-devel-announce/2002/02/msg00007.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry end="Aug 13 2006" isDuration="true" start="Aug 11 2006" title="Bug squashing party (Skolelinux Testcenter, Gütersloh, Germany)">&lt;a href=&quot;http://lists.debian.org/debian-announce/2006/msg00003.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry end="Sep 10 2006" isDuration="true" start="Sep 08 2006" title="Bug squashing party (Don Bosco Studentenheim, Vienna, Austria)">&lt;a href=&quot;http://lists.debian.org/debian-announce/2006/msg00003.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Sep 09 2006" title="Bug squashing party (AILab, Uni Zürich, Switzerland)">&lt;a href=&quot;http://lists.debian.ch/community@lists.debian.ch/2003-2007/msg00796.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry end="Oct 08 2006" isDuration="true" start="Oct 06 2006" title="Bug squashing party (Espace Autogéré des Tanneries, Dijon, France)">&lt;a href=&quot;http://lists.debian.org/debian-announce/2006/msg00003.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry end="Oct 08 2006" isDuration="true" start="Oct 06 2006" title="Bug squashing party (AILab, Uni Zürich, Switzerland)">&lt;a href=&quot;http://lists.debian.ch/community@lists.debian.ch/2003-2007/msg00804.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry end="Sep 30 2007" isDuration="true" start="Sep 29 2007" title="Bug squashing party (Espace Autogéré des Tanneries, Dijon, France)">&lt;a href=&quot;http://lists.debian.org/debian-devel-french/2007/09/msg00000.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry end="Jan 13 2008" isDuration="true" start="Jan 11 2008" title="Bug squashing party (AILab, Uni Zürich, Switzerland)">&lt;a href=&quot;http://lists.debian.ch/community@lists.debian.ch/2008/msg00000.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry end="Apr 06 2008" isDuration="true" start="Apr 04 2008" title="Bug squashing party (Cambridge)">&lt;a href=&quot;http://www.chiark.greenend.org.uk/pipermail/debian-uk/2008-March/011138.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry end="Jan 24 2010" isDuration="true" start="Jan 22 2010" title="Bug squashing party (Germany)">&lt;a href=&quot;http://lists.debian.org/debian-devel-announce/2009/12/msg00000.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Jan 23 2010" title="Bug squashing party (Tokyo)">&lt;a href=&quot;http://lists.debian.org/debian-devel-announce/2010/01/msg00003.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Mar 15 1997" title="debian-policy 2.3.1.0">&lt;a href=&quot;http://packages.debian.org/changelogs/pool/main/d/debian-policy/current/changelog&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Jul 13 1997" title="debian-policy 2.2.0.0">&lt;a href=&quot;http://packages.debian.org/changelogs/pool/main/d/debian-policy/current/changelog&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Sep 2 1997" title="debian-policy 2.3.0.0">&lt;a href=&quot;http://packages.debian.org/changelogs/pool/main/d/debian-policy/current/changelog&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Jan 30 1998" title="debian-policy 2.4.0.0">&lt;a href=&quot;http://packages.debian.org/changelogs/pool/main/d/debian-policy/current/changelog&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Oct 29 1998" title="debian-policy 2.5.0.0">&lt;a href=&quot;http://packages.debian.org/changelogs/pool/main/d/debian-policy/current/changelog&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Jul 15 1999" title="debian-policy 3.0.1.0">&lt;a href=&quot;http://packages.debian.org/changelogs/pool/main/d/debian-policy/current/changelog&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Nov 4 1999" title="debian-policy 3.1.0.0">&lt;a href=&quot;http://packages.debian.org/changelogs/pool/main/d/debian-policy/current/changelog&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Jul 30 2000" title="debian-policy 3.2.0.0">&lt;a href=&quot;http://packages.debian.org/changelogs/pool/main/d/debian-policy/current/changelog&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Jan 28 2001" title="debian-policy 3.5.0.0">&lt;a href=&quot;http://packages.debian.org/changelogs/pool/main/d/debian-policy/current/changelog&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Jul 9 2003" title="debian-policy 3.6.0">&lt;a href=&quot;http://packages.debian.org/changelogs/pool/main/d/debian-policy/current/changelog&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Apr 25 2006" title="debian-policy 3.7.0.0">&lt;a href=&quot;http://packages.debian.org/changelogs/pool/main/d/debian-policy/current/changelog&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Jun 4 2008" title="debian-policy 3.8.0.0">&lt;a href=&quot;http://packages.debian.org/changelogs/pool/main/d/debian-policy/current/changelog&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Jun 27 2010" title="debian-policy 3.9.0.0">&lt;a href=&quot;http://packages.debian.org/changelogs/pool/main/d/debian-policy/current/changelog&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Jul 25 2010" title="debian-policy 3.9.1.0">&lt;a href=&quot;http://packages.debian.org/changelogs/pool/main/d/debian-policy/current/changelog&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Aug 18 1997" title="2200 official CD sets sold in 8 weeks">&lt;a href=&quot;http://www.us.debian.org/News/1997/19970818a&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Oct 20 1997" title="Release of the book &quot;The Debian Linux User's Guide&quot;">&lt;a href=&quot;http://www.us.debian.org/News/1997/linux_press_book.txt&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Jan 04 1999" title="Joey Hess releases first issue of DWN"/>
+  <entry start="Jul 30 1999" title="Release of the book &quot;Debian GNU/Linux: Guide to Installation and Usage&quot;">&lt;a href=&quot;http://www.us.debian.org/News/1999/19990730&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Jun 06 2005" title="Release of the book &quot;The Debian System&quot;">&lt;a href=&quot;http://debiansystem.info&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Jan 03 2006" title="etch timelined for release in December">&lt;a href=&quot;http://lists.debian.org/debian-devel-announce/2006/01/msg00001.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Jan 10 2007" title="woody release archived">&lt;a href=&quot;http://www.us.debian.org/News/2007/20070110.en&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Jul 29 2009" title="Debian decides to adopt time-based release freezes">&lt;a href=&quot;http://lists.debian.org/debian-announce/2009/msg00009.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Jul 30 2009" title="squeeze release goals announced">&lt;a href=&quot;http://lists.debian.org/debian-announce/2009/msg00010.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Jun 19 2010" title="etch release archived">&lt;a href=&quot;http://lists.debian.org/debian-devel-announce/2010/06/msg00003.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Jun 07 2001" title="Debian Bug #100000 reported by David B. Harris">&lt;a href=&quot;http://bugs.debian.org/100000&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Jul 04 2003" title="Debian Bug #200000 reported by Michel Grentzinger">&lt;a href=&quot;http://bugs.debian.org/200000&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Mar 17 2005" title="Debian Bug #300000 reported by Florian Zumbiehl">&lt;a href=&quot;http://bugs.debian.org/300000&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Jan 26 2006" title="Debian Bug #350000 reported by Daniel Schepler">&lt;a href=&quot;http://bugs.debian.org/350000&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Nov 23 2006" title="Debian Bug #400000 reported by Christian Perrier">&lt;a href=&quot;http://bugs.debian.org/400000&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Nov 07 2007" title="Debian Bug #450000 reported by Raphael Geissert">&lt;a href=&quot;http://bugs.debian.org/450000&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Jul 09 2008" title="Debian Bug #490000 reported by Max Stotsky">&lt;a href=&quot;http://bugs.debian.org/490000&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Sep 24 2008" title="Debian Bug #500000 reported by Nobuhiro Iwamatsu">&lt;a href=&quot;http://bugs.debian.org/500000&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Dec 28 2008" title="Debian Bug #510000 reported by Nicola Benaglia">&lt;a href=&quot;http://bugs.debian.org/510000&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Mar 16 2009" title="Debian Bug #520000 reported by Chris Sykes">&lt;a href=&quot;http://bugs.debian.org/520000&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="May 22 2009" title="Debian Bug #530000 reported by Robert McQueen">&lt;a href=&quot;http://bugs.debian.org/530000&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Aug 5 2009" title="Debian Bug #540000 reported by Jeff Chimene">&lt;a href=&quot;http://bugs.debian.org/540000&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Oct 6 2009" title="Debian Bug #550000 reported by Erik de Castro Lopo">&lt;a href=&quot;http://bugs.debian.org/550000&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Dec 8 2009" title="Debian Bug #560000 reported by Mika Tiainen">&lt;a href=&quot;http://bugs.debian.org/560000&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Feb 15 2010" title="Debian Bug #570000 reported by Ron Murray">&lt;a href=&quot;http://bugs.debian.org/570000&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="May 2 2010" title="Debian Bug #580000 reported by Salvo Tomaselli">&lt;a href=&quot;http://bugs.debian.org/580000&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Jul 22 2010" title="Debian Bug #590000 reported by Joe Dalton">&lt;a href=&quot;http://bugs.debian.org/590000&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Oct 12 2010" title="Debian Bug #600000 reported by Cyril Brulebois">&lt;a href=&quot;http://bugs.debian.org/600000&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Jan 14 2011" title="Debian Bug #610000 reported by Timo Veith">&lt;a href=&quot;http://bugs.debian.org/610000&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Feb 01 1997" title="Board of Directors elected">&lt;a href=&quot;http://www.us.debian.org/News/1997/19970301&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Mar 17 1997" title="Ian Murdock elected as chairman of Board of Directors">&lt;a href=&quot;http://www.us.debian.org/News/1997/19970317&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Jun 26 1997" title="Debian used in hydroponics experiment in space">&lt;a href=&quot;http://www.us.debian.org/News/1997/shuttle1&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Jun 09 1997" title="&quot;Software in the Public Interest&quot; incorporated">&lt;a href=&quot;http://www.us.debian.org/News/1997/19970307b&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Dec 01 1997" title="Ian Jackson becomes first DPL">&lt;a href=&quot;http://cvs.infodrom.org/calendar/calendar.infodrom.debian?cvsroot=infodrom&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry end="Feb 03 1999" isDuration="true" start="Dec 23 1998" title="DPL 1999 elections">&lt;a href=&quot;http://www.debian.org/vote/1999/vote_0001&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Feb 03 1999" title="Wichert Akkerman elected as DPL">&lt;a href=&quot;http://www.debian.org/vote/1999/vote_0001&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="May 03 1999" title="'Swirl' voted as Debian logo">&lt;a href=&quot;http://www.debian.org/vote/1999/vote_0004&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry end="Mar 16 2000" isDuration="true" start="Jan 31 2000" title="DPL 2000 elections">&lt;a href=&quot;http://www.debian.org/vote/2000/vote_0007&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Mar 16 2000" title="Wichert Akkerman re-elected as DPL">&lt;a href=&quot;http://www.debian.org/vote/2000/vote_0007&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry end="Mar 28 2001" isDuration="true" start="Jan 24 2001" title="DPL 2001 elections">&lt;a href=&quot;http://www.debian.org/vote/2001/vote_0001&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Mar 28 2001" title="Ben Collins elected as DPL">&lt;a href=&quot;http://www.debian.org/vote/2001/vote_0001&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry end="Apr 16 2002" isDuration="true" start="Feb 06 2002" title="DPL 2002 elections">&lt;a href=&quot;http://www.debian.org/vote/2002/vote_0001&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Apr 16 2002" title="Bdale Garbee elected as DPL">&lt;a href=&quot;http://www.debian.org/vote/2002/vote_0001&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry end="Mar 30 2003" isDuration="true" start="Jan 24 2003" title="DPL 2003 elections">&lt;a href=&quot;http://www.debian.org/vote/2003/vote_0001&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Mar 30 2003" title="Martin Michlmayr elected as DPL">&lt;a href=&quot;http://www.debian.org/vote/2003/vote_0001&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry end="Feb 28 2004" isDuration="true" start="Feb 07 2004" title="DPL 2004 elections">&lt;a href=&quot;http://www.debian.org/vote/2004/vote_001&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Feb 28 2004" title="Martin Michlmayr re-elected as DPL">&lt;a href=&quot;http://www.debian.org/vote/2004/vote_001&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Mar 21 2004" title="Non-free support re-affirmed">&lt;a href=&quot;http://www.debian.org/vote/2004/vote_002&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Apr 25 2004" title="Social Contract amended">&lt;a href=&quot;http://www.debian.org/vote/2004/vote_003&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Jul 02 2004" title="Social Contract changes postponed to after &quot;sarge&quot; release">&lt;a href=&quot;http://www.debian.org/vote/2004/vote_004&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry end="Apr 11 2005" isDuration="true" start="Feb 07 2005" title="DPL 2005 elections">&lt;a href=&quot;http://www.debian.org/vote/2005/vote_001&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Apr 11 2005" title="Branden Robinson elected as DPL">&lt;a href=&quot;http://www.debian.org/vote/2005/vote_001&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Mar 12 2006" title="GFDL texts without invariant sections considered free">&lt;a href=&quot;http://www.debian.org/vote/2006/vote_001&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry end="Apr 09 2006" isDuration="true" start="Feb 05 2006" title="DPL 2006 elections">&lt;a href=&quot;http://www.debian.org/vote/2006/vote_002&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Apr 09 2006" title="Anthony Towns elected as DPL">&lt;a href=&quot;http://www.debian.org/vote/2006/vote_002&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Oct 15 2006" title="Project leader not recalled by vote">&lt;a href=&quot;http://www.debian.org/vote/2006/vote_005&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Oct 15 2006" title="&quot;Re-affirm DPL, wish success to unofficial Dunc Tank&quot; vote passed">&lt;a href=&quot;http://www.debian.org/vote/2006/vote_006&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Oct 15 2006" title="&quot;Release etch with kernel firmware issues&quot; vote passed">&lt;a href=&quot;http://www.debian.org/vote/2006/vote_007&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry end="Apr 08 2007" isDuration="true" start="Feb 04 2007" title="DPL 2007 elections">&lt;a href=&quot;http://www.debian.org/vote/2007/vote_001&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Apr 08 2007" title="Sam Hocevar elected as DPL">&lt;a href=&quot;http://www.debian.org/vote/2007/vote_001&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Aug 05 2007" title="Debian Maintainers approved by vote">&lt;a href=&quot;http://www.debian.org/vote/2007/vote_003&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry end="Apr 13 2008" isDuration="true" start="Mar 02 2008" title="DPL 2008 elections">&lt;a href=&quot;http://www.debian.org/vote/2008/vote_001&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Apr 13 2008" title="Steve McIntyre elected as DPL">&lt;a href=&quot;http://www.debian.org/vote/2008/vote_001&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Dec 18 2008" title="Manoj Srivastava resigns as secretary">&lt;a href=&quot;http://lists.debian.org/debian-vote/2008/12/msg00275.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Jan 05 2009" title="Results of Lenny release GR announced">&lt;a href=&quot;http://lists.debian.org/debian-devel-announce/2009/01/msg00000.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Feb 20 2009" title="Kurt Roeckx appointed secretary">&lt;a href=&quot;http://lists.debian.org/debian-devel-announce/2009/02/msg00009.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry end="Apr 11 2009" isDuration="true" start="Mar 01 2009" title="DPL 2009 elections">&lt;a href=&quot;http://www.debian.org/vote/2009/vote_001&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Apr 11 2009" title="Steve McIntyre re-elected as DPL">&lt;a href=&quot;http://www.debian.org/vote/2008/vote_001&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry end="Apr 15 2010" isDuration="true" start="Mar 05 2010" title="DPL 2010 elections">&lt;a href=&quot;http://www.debian.org/vote/2009/vote_001&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Apr 15 2010" title="Stefano Zacchiroli elected as DPL">&lt;a href=&quot;http://www.debian.org/vote/2010/vote_001&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Oct 18 2010" title="Debian welcomes non-packaging contributors">&lt;a href=&quot;http://www.debian.org/vote/2010/vote_002&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Feb 14 2006" title="Debian Live project announced">&lt;a href=&quot;http://blog.daniel-baumann.ch/2006/02/14#20060214_debian-live-initiative&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Aug 24 2008" title="live-helper 1.0 uploaded to sid">&lt;a href=&quot;http://packages.debian.org/changelogs/pool/main/l/live-helper/current/changelog#versionversion1.0.0-1&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Aug 28 2008" title="Debian Live now an unofficial subproject">&lt;a href=&quot;http://lists.debian.org/debian-live/2008/08/msg00244.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Nov 1 2008" title="KDE4 beta4 Live CD">&lt;a href=&quot;http://pkg-kde.alioth.debian.org/kde4livecd.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Feb 15 2009" title="Debian Live images for Debian 5.0.0 upladed">&lt;a href=&quot;http://cdimage.debian.org/cdimage/archive/5.0.0-live/&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Jul 21 2010" title="Debian Live Squeeze alpha2 images released">&lt;a href=&quot;http://cdimage.debian.org/cdimage/squeeze_live_alpha2/&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Apr 11 1997" title="&quot;Deity&quot; (now &quot;apt&quot;) project started">&lt;a href=&quot;http://lists.debian.org/debian-user/1997/04/msg00786.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Sep 23 1997" title="debhelper 0.2 in unstable">&lt;a href=&quot;http://packages.debian.org/changelogs/pool/main/d/debhelper/current/changelog&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Mar 23 1998" title="Deity renamed to &quot;apt&quot;">&lt;a href=&quot;http://lists.debian.org/deity/1998/03/msg00114.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Oct 07 1998" title="Bug filed to replace smail with exim as default MTA">&lt;a href=&quot;http://lists.debian.org/debian-devel/1998/10/msg00570.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Aug 08 1998" title="debhelper 1.0">&lt;a href=&quot;http://packages.debian.org/changelogs/pool/main/d/debhelper/current/changelog&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Mar 09 1999" title="exim is the new default MTA for Debian stable">&lt;a href=&quot;http://www.oss-watch.ac.uk/resources/cs-exim.xml&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Feb 08 2001" title="debhelper 3.0">&lt;a href=&quot;http://packages.debian.org/changelogs/pool/main/d/debhelper/current/changelog&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Apr 27 2001" title="dpkg 1.9.0 released">&lt;a href=&quot;http://lists.debian.org/debian-devel-announce/2001/04/msg00016.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Apr 11 2002" title="debhelper 4.0">&lt;a href=&quot;http://packages.debian.org/changelogs/pool/main/d/debhelper/current/changelog&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Jan 07 2003" title="gcc 3.2 default compiler in unstable">&lt;a href=&quot;http://lists.debian.org/debian-devel-announce/2003/01/msg00003.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Dec 23 2003" title="Package signing added to apt">&lt;a href=&quot;http://bugs.debian.org/203741&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Jun 11 2004" title="AMD64 port &quot;ready for sid&quot;">&lt;a href=&quot;http://lists.debian.org/debian-devel-announce/2004/06/msg00002.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Jul 05 2005" title="gcc 4.0 default compiler in unstable">&lt;a href=&quot;http://lists.debian.org/debian-devel-announce/2005/07/msg00001.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Aug 25 2005" title="REJECT FAQ for NEW added">&lt;a href=&quot;http://lists.debian.org/debian-devel-announce/2005/08/msg00011.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Nov 01 2005" title="debhelper 5.0">&lt;a href=&quot;http://packages.debian.org/changelogs/pool/main/d/debhelper/current/changelog&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Mar 22 2006" title="debmake deprecated">&lt;a href=&quot;http://lists.debian.org/debian-devel-announce/2006/03/msg00019.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Jun 07 2006" title="gcc 4.1 default compiler in unstable">&lt;a href=&quot;http://lists.debian.org/debian-devel-announce/2006/06/msg00004.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Sep 01 2007" title="gcc 4.2 default compiler in unstable"/>
+  <entry start="Sep 04 2006" title="cdrkit (cdrtools fork) uploaded">&lt;a href=&quot;http://lists.debian.org/debian-devel-announce/2006/09/msg00002.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Oct 01 2007" title="Installation of &quot;Recommends:&quot; by default">&lt;a href=&quot;http://lists.debian.org/debian-devel-announce/2007/08/msg00000.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Jan 08 2008" title="debhelper 6.0">&lt;a href=&quot;http://packages.debian.org/changelogs/pool/main/d/debhelper/current/changelog&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Apr 08 2008" title="dpkg with triggers in unstable">&lt;a href=&quot;http://packages.debian.org/changelogs/pool/main/d/dpkg/current/changelog&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Apr 24 2008" title="debhelper 7.0">&lt;a href=&quot;http://packages.debian.org/changelogs/pool/main/d/debhelper/current/changelog&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Nov 28 2008" title="AGPL deemed suitable for main">&lt;a href=&quot;http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=506402#10&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Apr 23 2009" title="Debian packages for lenny's &quot;Linux-libre&quot; released">&lt;a href=&quot;http://lists.debian.org/debian-devel-announce/2009/04/msg00010.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Sep 4 2009" title="grub package now based on GRUB2">&lt;a href=&quot;http://lists.debian.org/debian-devel-announce/2009/09/msg00002.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Nov 21 2009" title="New source package formats available">&lt;a href=&quot;http://lists.debian.org/debian-devel-announce/2009/11/msg00003.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="May 21 2010" title="Parallel booting enabled by default">&lt;a href=&quot;http://lists.debian.org/debian-devel-announce/2010/05/msg00009.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Nov 20 2002" title="satie.debian.org in flames">&lt;a href=&quot;http://lists.debian.org/debian-devel-announce/2002/11/msg00009.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry end="Nov 21 2003" isDuration="true" start="Nov 19 2003" title="klecker.debian.org compromised">&lt;a href=&quot;http://lists.debian.org/debian-announce/2003/msg00003.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Apr 20 2004" title="Kernel vulnerability forces restrictions">&lt;a href=&quot;http://lists.debian.org/debian-devel-announce/2004/04/msg00015.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Jul 12 2006" title="gluck.debian.org compromised">&lt;a href=&quot;http://lists.debian.org/debian-devel-announce/2006/07/msg00003.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Aug 16 1993" title="Debian founded">&lt;a href=&quot;http://groups.google.com/group/comp.os.linux.development/msg/a32d4e2ef3bcdcc6&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Jun 30 2009" title="gluck.debian.org shut down">&lt;a href=&quot;http://lists.debian.org/debian-devel-announce/2009/06/msg00002.html&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Nov 09 2003" title="First beta of debian-installer released">&lt;a href=&quot;http://www.debian.org/devel/debian-installer/News/2003/2&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Jan 14 2004" title="Second beta of debian-installer released">&lt;a href=&quot;http://www.debian.org/devel/debian-installer/News/2004/20040114&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Mar 15 2004" title="Third beta of debian-installer released">&lt;a href=&quot;http://www.debian.org/devel/debian-installer/News/2004/20040315&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Apr 30 2004" title="Fourth beta of debian-installer released">&lt;a href=&quot;http://www.debian.org/devel/debian-installer/News/2004/20040430&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Aug 07 2004" title="debian-installer for sarge (RC1) released">&lt;a href=&quot;http://www.debian.org/devel/debian-installer/News/2004/20040807&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Nov 22 2004" title="debian-installer for sarge (RC2) released">&lt;a href=&quot;http://www.debian.org/devel/debian-installer/News/2004/20041122&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Mar 23 2005" title="debian-installer for sarge (RC3) released">&lt;a href=&quot;http://www.debian.org/devel/debian-installer/News/2005/20050323&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Nov 11 2005" title="First beta of etch's debian-installer released">&lt;a href=&quot;http://www.debian.org/devel/debian-installer/News/2005/20051111&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Mar 26 2006" title="Second beta of etch's debian-installer released">&lt;a href=&quot;http://www.debian.org/devel/debian-installer/News/2006/20060315&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Aug 11 2006" title="Third beta of etch's debian-installer released">&lt;a href=&quot;http://www.debian.org/devel/debian-installer/News/2006/20060811&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Nov 13 2006" title="debian-installer for etch (RC1) released">&lt;a href=&quot;http://www.debian.org/devel/debian-installer/News/2006/20061113&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Mar 19 2007" title="debian-installer for etch (RC2) released">&lt;a href=&quot;http://www.debian.org/devel/debian-installer/News/2007/20070319&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Mar 17 2008" title="First beta of lenny's debian-installer released">&lt;a href=&quot;http://www.debian.org/devel/debian-installer/News/2008/20080317&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Jun 09 2008" title="Second beta of lenny's debian-installer released">&lt;a href=&quot;http://www.debian.org/devel/debian-installer/News/2008/20080609&quot;&gt;Source&lt;/a&gt;</entry>
+  <entry start="Nov 12 2008" title="First RC of lenny's debian-installer released">&lt;a href=&quot;http://www.debian.org/devel/debian-installer/News/2008/20081112&quot;&gt;Source&lt;/a&gt;</entry>
+</data>
+
