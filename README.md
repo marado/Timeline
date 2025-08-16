@@ -1,4 +1,4 @@
-This was shamelessly stolen from https://github.com/lamby/debian-timeline . 
+This was shamelessly stolen from [debian-timeline](https://salsa.debian.org/publicity-team/debian-timeline). 
 
 As a tribute to his dedication of that code to the Public Domain, this code is
 also on the Public Domain.
